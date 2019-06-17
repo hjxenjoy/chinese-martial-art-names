@@ -1,0 +1,22 @@
+{
+  "name": "chinese-martial-art-names",
+  "version": "1.0.0",
+  "description": "Get random chinese martial art names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjxenjoy/chinese-martial-art-names.git"
+  },
+  "author": "Jinxin Hu <hjxenjoy@gmail.com> (https://hujin.xin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjxenjoy/chinese-martial-art-names/issues"
+  },
+  "homepage": "https://github.com/hjxenjoy/chinese-martial-art-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
